@@ -1,4 +1,4 @@
-# Tests unitaires JestJS [![Build Status](https://travis-ci.org/portduport/event-scheduler-jest.svg?branch=master)](https://travis-ci.org/portduport/event-scheduler-jest)
+# Tests unitaires JestJS [![Build Status](https://travis-ci.org/portduport/event-scheduler-jest.svg?branch=master)](https://travis-ci.org/portduport/event-scheduler-jest) [![Coverage Status](https://coveralls.io/repos/github/portduport/event-scheduler-jest/badge.svg?branch=master)](https://coveralls.io/github/portduport/event-scheduler-jest?branch=master)
 
 Atelier d'écriture de tests unitaires en Node.js pour le module "Métiers du test" - Campus Numérique Annecy.
 

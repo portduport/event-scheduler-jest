@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1585741187721" clover="3.2.0">
-  <project timestamp="1585741187721" name="All files">
+<coverage generated="1585746929457" clover="3.2.0">
+  <project timestamp="1585746929457" name="All files">
     <metrics statements="48" coveredstatements="23" conditionals="2" coveredconditionals="0" methods="36" coveredmethods="13" elements="86" coveredelements="36" complexity="0" loc="48" ncloc="48" packages="1" files="5" classes="5"/>
     <file name="controller.js" path="/Users/pca/Desktop/CAMPUS NUMERIQUE/METIERS DU TEST/event-scheduler-jest-master/src/controller.js">
       <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
