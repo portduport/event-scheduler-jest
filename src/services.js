@@ -31,6 +31,7 @@ export default class EventService {
      * @return {null | Event}
      */
     getFirstEvent() {
+
         return null; //TODO
     }
 
